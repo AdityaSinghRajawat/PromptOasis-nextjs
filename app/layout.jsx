@@ -4,7 +4,8 @@ import '@styles/global.css';
 
 export const metadata = {
     title: 'PromptOasis',
-    description: 'Discover boundless inspiration at PromptOasis. Ignite your creativity and embark on a journey of imagination.'
+    description: 'Discover boundless inspiration at PromptOasis. Ignite your creativity and embark on a journey of imagination.',
+    icons: '/assets/images/PromptOasisnobg.png'
 }
 
 const RootLayout = ({ children }) => {
